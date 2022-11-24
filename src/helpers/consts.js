@@ -12,4 +12,4 @@ export const CART = {
 };
 
 // export const JSON_API_PRODUCTS = "http://localhost:8000/products"; //было так 
-export const JSON_API_PRODUCTS = "https://super-store-kg-ev12.vercel.app/api/products/"; //станет так
+export const JSON_API_PRODUCTS = "https://super-store-kg-ev12.vercel.app/api/products"; //станет так
